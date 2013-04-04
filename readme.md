@@ -1,1 +1,1 @@
-Processing script by Jelle Akkerman for the "Elegante Algoritme" competition of SETUP Utrecht
+Javascript script by Jelle Akkerman for the "Elegante Algoritme" competition of SETUP Utrecht
